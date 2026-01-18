@@ -29,11 +29,11 @@ Bu projeyi çalıştırmak için API anahtarlarına ihtiyacınız var.
     flutter run
     ```
 
-📸 Ekran Görüntüleri
-<img width="1080" height="2400" alt="Screenshot_1768755431" src="https://github.com/user-attachments/assets/e84d54fd-2c69-4a45-963f-ac71187e6dc7" />
+<h3 align="center">📸 Ekran Görüntüleri</h3>
 
-
-<img width="1080" height="2400" alt="Screenshot_1768755504" src="https://github.com/user-attachments/assets/ebbe86c5-a6e6-4bb3-a945-04c0d7713ad4" />
-
-<img width="1080" height="2400" alt="Screenshot_1768755570" src="https://github.com/user-attachments/assets/f5529912-df47-4c75-91c2-55119add537d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e84d54fd-2c69-4a45-963f-ac71187e6dc7" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ebbe86c5-a6e6-4bb3-a945-04c0d7713ad4" width="30%" /> 
+  <img src="https://github.com/user-attachments/assets/f5529912-df47-4c75-91c2-55119add537d" width="30%" />
+</p>
 
