@@ -1,16 +1,39 @@
-# investtrack
+# InvestTrack - Fintech Dashboard App 📈
 
-A new Flutter project.
+Flutter ile geliştirilmiş, canlı borsa takibi yapan ve Yapay Zeka destekli portföy yönetim uygulaması.
 
-## Getting Started
+## 🚀 Özellikler
+- **Canlı Veri:** Yahoo Finance API ile anlık hisse, kripto ve döviz takibi.
+- **AI Advisor:** Google Gemini ile portföy analizi ve yatırım tavsiyesi.
+- **Güvenli Backend:** Firebase Auth ve Firestore ile kullanıcı verisi yönetimi.
 
-This project is a starting point for a Flutter application.
+## 🛠 Kurulum
 
-A few resources to get you started if this is your first Flutter project:
+Bu projeyi çalıştırmak için API anahtarlarına ihtiyacınız var.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Projeyi klonlayın:
+   ```bash
+   git clone https://github.com/EmreAytar/InvestTrack-App
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Ana dizine .env adında bir dosya oluşturun ve içine şunları ekleyin:
+  ```bash
+    YAHOO_API_KEY=KENDI_RAPIDAPI_KEYINIZ
+    GEMINI_API_KEY=KENDI_GEMINI_KEYINIZ
+  ```
+
+  Firebase kurulumu için google-services.json dosyanızı android/app/ içine ekleyin.
+  Çalıştırın:
+    ```bash
+    flutter pub get
+    flutter run
+    ```
+
+📸 Ekran Görüntüleri
+<img width="1080" height="2400" alt="Screenshot_1768755431" src="https://github.com/user-attachments/assets/e84d54fd-2c69-4a45-963f-ac71187e6dc7" />
+
+
+<img width="1080" height="2400" alt="Screenshot_1768755504" src="https://github.com/user-attachments/assets/ebbe86c5-a6e6-4bb3-a945-04c0d7713ad4" />
+
+<img width="1080" height="2400" alt="Screenshot_1768755570" src="https://github.com/user-attachments/assets/f5529912-df47-4c75-91c2-55119add537d" />
+
